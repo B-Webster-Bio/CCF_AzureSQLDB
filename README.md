@@ -7,4 +7,4 @@ As part of the Cloud Computing Fellowship at Michigan State University:
 
 
 ## Entity-Relationship Diagram
-(Supplemental/DataBase_ERD.JPG)
+![Proposed ERD of real data types.](Supplemental/DataBase_ERD.JPG)
